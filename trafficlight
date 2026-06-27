@@ -1,0 +1,82 @@
+# Arduino Traffic Light System
+
+## Project Description
+
+This project demonstrates a basic traffic light using Arduino Uno and three LEDs.
+
+The system cycles through:
+
+- Red Light (Stop)
+- Green Light (Go)
+- Yellow Light (Wait)
+
+The sequence repeats continuously.
+
+---
+
+## Components
+
+- Arduino Uno
+- Breadboard
+- Red LED
+- Yellow LED
+- Green LED
+- 3 × 220Ω Resistors
+- Jumper Wires
+- USB Cable
+
+---
+
+## Connections
+
+Red LED → Pin 8
+
+Yellow LED → Pin 9
+
+Green LED → Pin 10
+
+All LED negative terminals connect to GND through 220Ω resistors.
+
+---
+
+## Software
+
+- Arduino IDE
+
+---
+
+## Upload Steps
+
+1. Connect Arduino.
+2. Open Arduino IDE.
+3. Select Arduino Uno.
+4. Select COM Port.
+5. Paste the code.
+6. Click Upload.
+
+---
+
+## Working
+
+The Red LED glows for 5 seconds.
+
+Then the Green LED glows for 5 seconds.
+
+Then the Yellow LED glows for 2 seconds.
+
+The cycle repeats continuously.
+
+---
+
+## Applications
+
+- Traffic Signal Demonstration
+- School and College Projects
+- Arduino Learning
+- Embedded Systems Practice
+
+---
+
+## Author
+youtube channel
+TryitToday-v2v
